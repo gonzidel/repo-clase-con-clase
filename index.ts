@@ -69,7 +69,7 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
-console.log("nuevo")
+console.log("vino alguien mas")
 }
 
 main();
